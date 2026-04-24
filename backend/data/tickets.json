@@ -1,0 +1,20 @@
+[
+    {
+        "ticket_id": "TKT001",
+        "customer_name": "John Doe",
+        "issue": "Headphones arrived with a broken right ear cup.",
+        "status": "open"
+    },
+    {
+        "ticket_id": "TKT002",
+        "customer_name": "John Doe",
+        "issue": "I would like to place a new order.",
+        "status": "open"
+    },
+    {
+        "ticket_id": "TKT003",
+        "customer_name": "Customer Name",
+        "issue": "Initiating a new order",
+        "status": "open"
+    }
+]

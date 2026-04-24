@@ -1,0 +1,23 @@
+[
+    {
+        "order_id": "ORD123",
+        "status": "shipped",
+        "shipping_date": "2026-04-20",
+        "estimated_arrival": "2026-04-26",
+        "items": ["Wireless Headphones", "USB-C Cable"]
+    },
+    {
+        "order_id": "ORD456",
+        "status": "processing",
+        "shipping_date": null,
+        "estimated_arrival": "2026-04-30",
+        "items": ["Mechanical Keyboard"]
+    },
+    {
+        "order_id": "ORD789",
+        "status": "delivered",
+        "shipping_date": "2026-04-10",
+        "estimated_arrival": "2026-04-15",
+        "items": ["Ergonomic Mouse", "Mousepad"]
+    }
+]
